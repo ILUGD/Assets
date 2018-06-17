@@ -1,5 +1,6 @@
-Hello [speaker_name] 
-Thanks for delivering a great talk at our meetup on 1st July 2018 which will be hosted at [venue] [1]. Following is the schedule for your talk: 
+Hello [speaker_name],
+
+Thanks for delivering a great talk at our meetup on [date: day, month, year] which will be hosted at [venue] [1]. Following is the schedule for your talk: 
 
 [schedule]
 
