@@ -1,5 +1,5 @@
 # ILUGD Assets
-The repo contains all the assests related to ILUGD like Logo, email templates etc.:
+The repo contains all the assets related to ILUGD like Logo, email templates etc.:
  - Logo
  - Speaker Invitation Email Template
  - Call for Venue Template
